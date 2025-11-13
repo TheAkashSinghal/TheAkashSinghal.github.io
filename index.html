@@ -15,6 +15,49 @@ layout: wrapper
     <i class="fa-solid fa-angles-down"></i>
     </a> 
 </div>
+<!-- About me -->
+<section id="aboutme" class="about-section">
+  <div class="about-container">
+    <h1>About Me</h1>
+    <p>
+      Hello! This is my about me section. I’m Akash, a Computer Engineering student at
+      Georgia Tech focusing on robotics, intelligent systems, and innovation.
+      I love combining hardware and software to solve real-world problems.
+    </p>
+  </div>
+</section>
+<style>
+    .about-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem 1rem;
+    }
+
+    .about-container {
+    border: 2px solid var(--link-color);
+    padding: 4rem;
+    max-width: 700px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: var(--background-color, #fdfdfd);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .about-container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: var(--text-color, #222);
+    }
+
+    .about-container p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: var(--text-color, #444);
+    }
+
+</style>
+
 {% include projects.html%}
 {% include skills.html%}
 {% include contact.html%}
