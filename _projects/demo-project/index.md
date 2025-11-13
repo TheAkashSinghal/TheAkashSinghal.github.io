@@ -5,11 +5,10 @@ description:  2019 - 2025. Worked with team to design, build, program, and marke
   round the world.
 skills: 
   - Team Leadership
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
+  - Design and Modeling
+  - Control Algorithm
+  - Soldering
+  - Object Oriented Programming (Java)
   - Thermal simulation
 
 main-image: /project2.jpg
