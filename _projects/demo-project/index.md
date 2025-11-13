@@ -11,7 +11,7 @@ skills:
   - Object Oriented Programming (Java)
   - Thermal simulation
 
-main-image: /project2.jpg
+main-image: /IMG_9362.jpg
 ---
 
 ---
