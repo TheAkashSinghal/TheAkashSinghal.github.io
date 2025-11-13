@@ -6,7 +6,7 @@ description:  2019 - 2025. Worked with team to design, build, program, and marke
 skills: 
   - Team Leadership
   - Design and Modeling
-  - Control Algorithm
+  - Control Algorithm 
   - Soldering
   - Object Oriented Programming (Java)
   - Thermal simulation
