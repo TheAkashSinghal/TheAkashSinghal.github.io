@@ -12,5 +12,5 @@ main-image: /IMG_7716.jpg
 
 # This is another demo
 
-{% include image-gallery.html images="DP1.png" height="400" %}
+{% include image-gallery.html images="DP1.png" "DP2.png" height="400" %}
 
