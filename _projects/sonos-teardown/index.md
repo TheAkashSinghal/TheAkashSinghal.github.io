@@ -12,5 +12,5 @@ main-image: /IMG_7716.jpg
 
 # More Project Pictures
 
-{% include image-gallery.html images="DP1.png, DP2.png, DP4.png" height="375" %}
+{% include image-gallery.html images="DP1.png, DP2.png, DP4.png" height="300" %}
 
